@@ -1,7 +1,7 @@
 def factor(n):
     factor = 2
     factors = set()
-    while n:
+    while factor <= n:
       while n % factor == 0:
         factors.add(factor)
         n //= factor

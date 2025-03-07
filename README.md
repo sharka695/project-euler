@@ -7,7 +7,7 @@ Note: The writeups are included as comments in the solutions.
 2. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/2.py)
    - [x] Writeup
 3. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/3.py)
-   - [ ] Writeup
+   - [x] Writeup
 4. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/4.py)
    - [ ] Writeup
 5. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/5.py)

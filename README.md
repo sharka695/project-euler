@@ -12,7 +12,7 @@ I've enjoyed the process of learning and discovery involved in solving these pro
 3. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/3.py)
    - [x] Writeup
 4. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/4.py)
-   - [ ] Writeup
+   - [x] Writeup
 5. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/5.py)
    - [ ] Writeup
 6. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/6.py)

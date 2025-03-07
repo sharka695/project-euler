@@ -1,104 +1,203 @@
 # project-euler
 My solutions and writeups for Project Euler [https://projecteuler.net/].
 
-Solved Writeup
-[]     [] Problem # 1
-[]     [] Problem # 2
-[]     [] Problem # 3
-[]     [] Problem # 4
-[]     [] Problem # 5
-[]     [] Problem # 6
-[]     [] Problem # 7
-[]     [] Problem # 8
-[]     [] Problem # 9
-[]     [] Problem # 10
-[]     [] Problem # 11
-[]     [] Problem # 12
-[]     [] Problem # 13
-[]     [] Problem # 14
-[]     [] Problem # 15
-[]     [] Problem # 16
-[]     [] Problem # 17
-[]     [] Problem # 18
-[]     [] Problem # 19
-[]     [] Problem # 20
-[]     [] Problem # 21
-[]     [] Problem # 22
-[]     [] Problem # 23
-[]     [] Problem # 24
-[]     [] Problem # 25
-[]     [] Problem # 26
-[]     [] Problem # 27
-[]     [] Problem # 28
-[]     [] Problem # 29
-[]     [] Problem # 30
-[]     [] Problem # 31
-[]     [] Problem # 32
-[]     [] Problem # 33
-[]     [] Problem # 34
-[]     [] Problem # 35
-[]     [] Problem # 36
-[]     [] Problem # 37
-[]     [] Problem # 38
-[]     [] Problem # 39
-[]     [] Problem # 40
-[]     [] Problem # 41
-[]     [] Problem # 42
-[]     [] Problem # 43
-[]     [] Problem # 44
-[]     [] Problem # 45
-[]     [] Problem # 46
-[]     [] Problem # 47
-[]     [] Problem # 48
-[]     [] Problem # 49
-[]     [] Problem # 50
-[]     [] Problem # 51
-[]     [] Problem # 52
-[]     [] Problem # 53
-[]     [] Problem # 54
-[]     [] Problem # 55
-[]     [] Problem # 56
-[]     [] Problem # 57
-[]     [] Problem # 58
-[]     [] Problem # 59
-[]     [] Problem # 60
-[]     [] Problem # 61
-[]     [] Problem # 62
-[]     [] Problem # 63
-[]     [] Problem # 64
-[]     [] Problem # 65
-[]     [] Problem # 66
-[]     [] Problem # 67
-[]     [] Problem # 68
-[]     [] Problem # 69
-[]     [] Problem # 70
-[]     [] Problem # 71
-[]     [] Problem # 72
-[]     [] Problem # 73
-[]     [] Problem # 74
-[]     [] Problem # 75
-[]     [] Problem # 76
-[]     [] Problem # 77
-[]     [] Problem # 78
-[]     [] Problem # 79
-[]     [] Problem # 80
-[]     [] Problem # 81
-[]     [] Problem # 82
-[]     [] Problem # 83
-[]     [] Problem # 84
-[]     [] Problem # 85
-[]     [] Problem # 86
-[]     [] Problem # 87
-[]     [] Problem # 88
-[]     [] Problem # 89
-[]     [] Problem # 90
-[]     [] Problem # 91
-[]     [] Problem # 92
-[]     [] Problem # 93
-[]     [] Problem # 94
-[]     [] Problem # 95
-[]     [] Problem # 96
-[]     [] Problem # 97
-[]     [] Problem # 98
-[]     [] Problem # 99
-[]     [] Problem # 100
+1. - [x] Solved
+   - [x] Writeup
+2. - [x] Solved
+   - [x] Writeup
+3. - [x] Solved
+   - [ ] Writeup
+4. - [x] Solved
+   - [ ] Writeup
+5. - [x] Solved
+   - [ ] Writeup
+6. - [x] Solved
+   - [ ] Writeup
+7. - [x] Solved
+   - [ ] Writeup
+8. - [x] Solved
+   - [ ] Writeup
+9. - [x] Solved
+   - [ ] Writeup
+10. - [x] Solved
+    - [ ] Writeup
+11. - [x] Solved
+    - [ ] Writeup
+12. - [x] Solved
+    - [ ] Writeup
+13. - [x] Solved
+    - [ ] Writeup
+14. - [ ] Solved
+    - [ ] Writeup
+15. - [x] Solved
+    - [ ] Writeup
+16. - [x] Solved
+    - [ ] Writeup
+17. - [x] Solved
+    - [ ] Writeup
+18. - [x] Solved
+    - [ ] Writeup
+19. - [ ] Solved
+    - [ ] Writeup
+20. - [x] Solved
+    - [ ] Writeup
+21. - [x] Solved
+    - [ ] Writeup
+22. - [x] Solved
+    - [x] Writeup
+23. - [ ] Solved
+    - [ ] Writeup
+24. - [ ] Solved
+    - [ ] Writeup
+25. - [x] Solved
+    - [ ] Writeup
+26. - [ ] Solved
+    - [ ] Writeup
+27. - [ ] Solved
+    - [ ] Writeup
+28. - [x] Solved
+    - [ ] Writeup
+29. - [x] Solved
+    - [ ] Writeup
+30. - [ ] Solved
+    - [ ] Writeup
+31. - [ ] Solved
+    - [ ] Writeup
+32. - [ ] Solved
+    - [ ] Writeup
+33. - [ ] Solved
+    - [ ] Writeup
+34. - [ ] Solved
+    - [ ] Writeup
+35. - [x] Solved
+    - [ ] Writeup
+36. - [ ] Solved
+    - [ ] Writeup
+37. - [ ] Solved
+    - [ ] Writeup
+38. - [ ] Solved
+    - [ ] Writeup
+39. - [ ] Solved
+    - [ ] Writeup
+40. - [ ] Solved
+    - [ ] Writeup
+41. - [ ] Solved
+    - [ ] Writeup
+42. - [ ] Solved
+    - [ ] Writeup
+43. - [ ] Solved
+    - [ ] Writeup
+44. - [ ] Solved
+    - [ ] Writeup
+45. - [ ] Solved
+    - [ ] Writeup
+46. - [ ] Solved
+    - [ ] Writeup
+47. - [ ] Solved
+    - [ ] Writeup
+48. - [ ] Solved
+    - [ ] Writeup
+49. - [ ] Solved
+    - [ ] Writeup
+50. - [ ] Solved
+    - [ ] Writeup
+51. - [ ] Solved
+    - [ ] Writeup
+52. - [ ] Solved
+    - [ ] Writeup
+53. - [ ] Solved
+    - [ ] Writeup
+54. - [ ] Solved
+    - [ ] Writeup
+55. - [ ] Solved
+    - [ ] Writeup
+56. - [ ] Solved
+    - [ ] Writeup
+57. - [ ] Solved
+    - [ ] Writeup
+58. - [ ] Solved
+    - [ ] Writeup
+59. - [ ] Solved
+    - [ ] Writeup
+60. - [ ] Solved
+    - [ ] Writeup
+61. - [ ] Solved
+    - [ ] Writeup
+62. - [ ] Solved
+    - [ ] Writeup
+63. - [ ] Solved
+    - [ ] Writeup
+64. - [ ] Solved
+    - [ ] Writeup
+65. - [ ] Solved
+    - [ ] Writeup
+66. - [ ] Solved
+    - [ ] Writeup
+67. - [ ] Solved
+    - [ ] Writeup
+68. - [ ] Solved
+    - [ ] Writeup
+69. - [ ] Solved
+    - [ ] Writeup
+70. - [ ] Solved
+    - [ ] Writeup
+71. - [ ] Solved
+    - [ ] Writeup
+72. - [ ] Solved
+    - [ ] Writeup
+73. - [ ] Solved
+    - [ ] Writeup
+74. - [ ] Solved
+    - [ ] Writeup
+75. - [ ] Solved
+    - [ ] Writeup
+76. - [ ] Solved
+    - [ ] Writeup
+77. - [ ] Solved
+    - [ ] Writeup
+78. - [ ] Solved
+    - [ ] Writeup
+79. - [ ] Solved
+    - [ ] Writeup
+80. - [ ] Solved
+    - [ ] Writeup
+81. - [ ] Solved
+    - [ ] Writeup
+82. - [ ] Solved
+    - [ ] Writeup
+83. - [ ] Solved
+    - [ ] Writeup
+84. - [ ] Solved
+    - [ ] Writeup
+85. - [ ] Solved
+    - [ ] Writeup
+86. - [ ] Solved
+    - [ ] Writeup
+87. - [ ] Solved
+    - [ ] Writeup
+88. - [ ] Solved
+    - [ ] Writeup
+89. - [ ] Solved
+    - [ ] Writeup
+90. - [ ] Solved
+    - [ ] Writeup
+91. - [ ] Solved
+    - [ ] Writeup
+92. - [ ] Solved
+    - [ ] Writeup
+93. - [ ] Solved
+    - [ ] Writeup
+94. - [ ] Solved
+    - [ ] Writeup
+95. - [ ] Solved
+    - [ ] Writeup
+96. - [ ] Solved
+    - [ ] Writeup
+97. - [ ] Solved
+    - [ ] Writeup
+98. - [ ] Solved
+    - [ ] Writeup
+99. - [ ] Solved
+    - [ ] Writeup
+100. - [ ] Solved
+     - [ ] Writeup

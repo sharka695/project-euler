@@ -148,9 +148,9 @@ def digitsToNum(digits):
 
 def rotations(n):
     digits = digitsOf(n)
-    rotates = []
+    rotates = set()
     for i in range(len(digits)):
-        rotates.append(digitsToNum(digits[i:] + digits[:i]))
+        rotates.add(digitsToNum(digits[i:] + digits[:i]))
     return rotates
 
 def circularPrimes():
@@ -158,3 +158,7 @@ def circularPrimes():
     circulars = set()
     for prime in primes:
         # Check if rotations are in primes. If so, put them in circulars set.
+        rotates = rotations(prime)
+        if all([(lambda n: n in primes)(rotate) for rotate in rotates]):
+            circulars |= rotates
+    return len(circulars) # 55

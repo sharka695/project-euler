@@ -3,203 +3,203 @@ My solutions and writeups for Project Euler [https://projecteuler.net/].
 Note: The writeups are included as comments in the solutions.
 In the spirit of Project Euler, please use these solutions and writeups as opportunities to consider these problems from the perspective of another learner.
 
-1. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/1.py)
+1. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/1.py)
    - [x] Writeup
-2. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/2.py)
+2. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/2.py)
    - [x] Writeup
-3. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/3.py)
+3. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/3.py)
    - [x] Writeup
-4. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/4.py)
+4. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/4.py)
    - [ ] Writeup
-5. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/5.py)
+5. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/5.py)
    - [ ] Writeup
-6. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/6.py)
+6. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/6.py)
    - [ ] Writeup
-7. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/7.py)
+7. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/7.py)
    - [ ] Writeup
-8. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/8.py)
+8. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/8.py)
    - [ ] Writeup
-9. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/9.py)
+9. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/9.py)
    - [ ] Writeup
-10. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/10.py)
+10. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/10.py)
     - [ ] Writeup
-11. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/11.py)
+11. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/11.py)
     - [ ] Writeup
-12. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/12.py)
+12. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/12.py)
     - [ ] Writeup
-13. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/13.py)
+13. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/13.py)
     - [ ] Writeup
-14. - [ ] Solved
+14. - [ ] Solution
     - [ ] Writeup
-15. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/15.py)
+15. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/15.py)
     - [ ] Writeup
-16. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/16.py)
+16. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/16.py)
     - [ ] Writeup
-17. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/17.py)
+17. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/17.py)
     - [ ] Writeup
-18. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/18.py)
+18. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/18.py)
     - [ ] Writeup
-19. - [ ] Solved
+19. - [ ] Solution
     - [ ] Writeup
-20. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/20.py)
+20. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/20.py)
     - [ ] Writeup
-21. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/21.py)
+21. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/21.py)
     - [ ] Writeup
-22. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/22.py)
+22. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/22.py)
     - [ ] Writeup
-23. - [ ] Solved
+23. - [ ] Solution
     - [ ] Writeup
-24. - [ ] Solved
+24. - [ ] Solution
     - [ ] Writeup
-25. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/25.py)
+25. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/25.py)
     - [ ] Writeup
-26. - [ ] Solved
+26. - [ ] Solution
     - [ ] Writeup
-27. - [ ] Solved
+27. - [ ] Solution
     - [ ] Writeup
-28. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/28.py)
+28. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/28.py)
     - [ ] Writeup
-29. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/29.py)
+29. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/29.py)
     - [ ] Writeup
-30. - [ ] Solved
+30. - [ ] Solution
     - [ ] Writeup
-31. - [ ] Solved
+31. - [ ] Solution
     - [ ] Writeup
-32. - [ ] Solved
+32. - [ ] Solution
     - [ ] Writeup
-33. - [ ] Solved
+33. - [ ] Solution
     - [ ] Writeup
-34. - [ ] Solved
+34. - [ ] Solution
     - [ ] Writeup
-35. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/35.py)
+35. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/35.py)
     - [ ] Writeup
-36. - [ ] Solved
+36. - [ ] Solution
     - [ ] Writeup
-37. - [ ] Solved
+37. - [ ] Solution
     - [ ] Writeup
-38. - [ ] Solved
+38. - [ ] Solution
     - [ ] Writeup
-39. - [ ] Solved
+39. - [ ] Solution
     - [ ] Writeup
-40. - [ ] Solved
+40. - [ ] Solution
     - [ ] Writeup
-41. - [ ] Solved
+41. - [ ] Solution
     - [ ] Writeup
-42. - [ ] Solved
+42. - [ ] Solution
     - [ ] Writeup
-43. - [ ] Solved
+43. - [ ] Solution
     - [ ] Writeup
-44. - [ ] Solved
+44. - [ ] Solution
     - [ ] Writeup
-45. - [ ] Solved
+45. - [ ] Solution
     - [ ] Writeup
-46. - [ ] Solved
+46. - [ ] Solution
     - [ ] Writeup
-47. - [ ] Solved
+47. - [ ] Solution
     - [ ] Writeup
-48. - [ ] Solved
+48. - [ ] Solution
     - [ ] Writeup
-49. - [ ] Solved
+49. - [ ] Solution
     - [ ] Writeup
-50. - [ ] Solved
+50. - [ ] Solution
     - [ ] Writeup
-51. - [ ] Solved
+51. - [ ] Solution
     - [ ] Writeup
-52. - [ ] Solved
+52. - [ ] Solution
     - [ ] Writeup
-53. - [ ] Solved
+53. - [ ] Solution
     - [ ] Writeup
-54. - [ ] Solved
+54. - [ ] Solution
     - [ ] Writeup
-55. - [ ] Solved
+55. - [ ] Solution
     - [ ] Writeup
-56. - [ ] Solved
+56. - [ ] Solution
     - [ ] Writeup
-57. - [ ] Solved
+57. - [ ] Solution
     - [ ] Writeup
-58. - [ ] Solved
+58. - [ ] Solution
     - [ ] Writeup
-59. - [ ] Solved
+59. - [ ] Solution
     - [ ] Writeup
-60. - [ ] Solved
+60. - [ ] Solution
     - [ ] Writeup
-61. - [ ] Solved
+61. - [ ] Solution
     - [ ] Writeup
-62. - [ ] Solved
+62. - [ ] Solution
     - [ ] Writeup
-63. - [ ] Solved
+63. - [ ] Solution
     - [ ] Writeup
-64. - [ ] Solved
+64. - [ ] Solution
     - [ ] Writeup
-65. - [ ] Solved
+65. - [ ] Solution
     - [ ] Writeup
-66. - [ ] Solved
+66. - [ ] Solution
     - [ ] Writeup
-67. - [ ] Solved
+67. - [ ] Solution
     - [ ] Writeup
-68. - [ ] Solved
+68. - [ ] Solution
     - [ ] Writeup
-69. - [ ] Solved
+69. - [ ] Solution
     - [ ] Writeup
-70. - [ ] Solved
+70. - [ ] Solution
     - [ ] Writeup
-71. - [ ] Solved
+71. - [ ] Solution
     - [ ] Writeup
-72. - [ ] Solved
+72. - [ ] Solution
     - [ ] Writeup
-73. - [ ] Solved
+73. - [ ] Solution
     - [ ] Writeup
-74. - [ ] Solved
+74. - [ ] Solution
     - [ ] Writeup
-75. - [ ] Solved
+75. - [ ] Solution
     - [ ] Writeup
-76. - [ ] Solved
+76. - [ ] Solution
     - [ ] Writeup
-77. - [ ] Solved
+77. - [ ] Solution
     - [ ] Writeup
-78. - [ ] Solved
+78. - [ ] Solution
     - [ ] Writeup
-79. - [ ] Solved
+79. - [ ] Solution
     - [ ] Writeup
-80. - [ ] Solved
+80. - [ ] Solution
     - [ ] Writeup
-81. - [ ] Solved
+81. - [ ] Solution
     - [ ] Writeup
-82. - [ ] Solved
+82. - [ ] Solution
     - [ ] Writeup
-83. - [ ] Solved
+83. - [ ] Solution
     - [ ] Writeup
-84. - [ ] Solved
+84. - [ ] Solution
     - [ ] Writeup
-85. - [ ] Solved
+85. - [ ] Solution
     - [ ] Writeup
-86. - [ ] Solved
+86. - [ ] Solution
     - [ ] Writeup
-87. - [ ] Solved
+87. - [ ] Solution
     - [ ] Writeup
-88. - [ ] Solved
+88. - [ ] Solution
     - [ ] Writeup
-89. - [ ] Solved
+89. - [ ] Solution
     - [ ] Writeup
-90. - [ ] Solved
+90. - [ ] Solution
     - [ ] Writeup
-91. - [ ] Solved
+91. - [ ] Solution
     - [ ] Writeup
-92. - [ ] Solved
+92. - [ ] Solution
     - [ ] Writeup
-93. - [ ] Solved
+93. - [ ] Solution
     - [ ] Writeup
-94. - [ ] Solved
+94. - [ ] Solution
     - [ ] Writeup
-95. - [ ] Solved
+95. - [ ] Solution
     - [ ] Writeup
-96. - [ ] Solved
+96. - [ ] Solution
     - [ ] Writeup
-97. - [ ] Solved
+97. - [ ] Solution
     - [ ] Writeup
-98. - [ ] Solved
+98. - [ ] Solution
     - [ ] Writeup
-99. - [ ] Solved
+99. - [ ] Solution
     - [ ] Writeup
-100. - [ ] Solved
+100. - [ ] Solution
      - [ ] Writeup

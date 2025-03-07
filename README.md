@@ -1,5 +1,6 @@
 # project-euler
-My solutions and writeups for Project Euler [https://projecteuler.net/].
+My solutions and writeups for [Project Euler](https://projecteuler.net/).
+
 Note: The writeups are included as comments in the solutions.
 In the spirit of Project Euler, please use these solutions and writeups as opportunities to consider these problems from the perspective of another learner.
 

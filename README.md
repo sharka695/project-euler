@@ -2,7 +2,8 @@
 My solutions and writeups for [Project Euler](https://projecteuler.net/).
 
 Note: The writeups are included as comments in the solutions.
-In the spirit of Project Euler, please use these solutions and writeups as opportunities to consider these problems from the perspective of another learner.
+In the spirit of Project Euler, please approach these solutions and writeups as a learning opportunity.
+I've enjoyed the process of learning and discovery involved in solving these problems, and hope you will too!
 
 1. - [x] [Solution](https://github.com/sharka695/project-euler/blob/main/problems/1.py)
    - [x] Writeup

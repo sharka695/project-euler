@@ -1,3 +1,14 @@
+""" I had a few false starts with this, and ended up just going with a brute-force answer,
+    going through all of the products of two three-digit numbers and finding the biggest one
+    that is also a palindrome. Turning a number into a string and checking if the string is
+    a palindrome is a straightforward approach, but sometimes it's fun to work more closely
+    with integers directly. The results are the same, and used an array anyways, but it is
+    what it is. Taking the log, base 10, of a number, then taking its floor, would have
+    yielded the length of the number, which could have then been used to compare each digit
+    without an array. There's probably other ways to check palindromicity as well, but the
+    approach worked.
+"""
+
 def factor(n):
     factor = 2
     factors = set()

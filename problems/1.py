@@ -1,3 +1,8 @@
+""" Rather than writing a function to find the sum of the multiples of both 3 and 5 under 1,000,
+    one can sum up the multiples of each, then subtract the sum of the multiples of both.
+    This accounts for the numbers counted twice (e.g., 30 will be counted in both sums, so it should be removed once).
+"""
+
 def sum_multiples_of(a, n):
   total = 0
   i = 1

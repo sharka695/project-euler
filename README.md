@@ -1,63 +1,63 @@
 # project-euler
 My solutions and writeups for Project Euler [https://projecteuler.net/].
 
-1. - [x] Solved
+1. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/1.py)
    - [x] Writeup
-2. - [x] Solved
+2. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/2.py)
    - [x] Writeup
-3. - [x] Solved
+3. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/3.py)
    - [ ] Writeup
-4. - [x] Solved
+4. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/4.py)
    - [ ] Writeup
-5. - [x] Solved
+5. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/5.py)
    - [ ] Writeup
-6. - [x] Solved
+6. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/6.py)
    - [ ] Writeup
-7. - [x] Solved
+7. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/7.py)
    - [ ] Writeup
-8. - [x] Solved
+8. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/8.py)
    - [ ] Writeup
-9. - [x] Solved
+9. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/9.py)
    - [ ] Writeup
-10. - [x] Solved
+10. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/10.py)
     - [ ] Writeup
-11. - [x] Solved
+11. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/11.py)
     - [ ] Writeup
-12. - [x] Solved
+12. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/12.py)
     - [ ] Writeup
-13. - [x] Solved
+13. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/13.py)
     - [ ] Writeup
 14. - [ ] Solved
     - [ ] Writeup
-15. - [x] Solved
+15. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/15.py)
     - [ ] Writeup
-16. - [x] Solved
+16. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/16.py)
     - [ ] Writeup
-17. - [x] Solved
+17. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/17.py)
     - [ ] Writeup
-18. - [x] Solved
+18. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/18.py)
     - [ ] Writeup
 19. - [ ] Solved
     - [ ] Writeup
-20. - [x] Solved
+20. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/20.py)
     - [ ] Writeup
-21. - [x] Solved
+21. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/21.py)
     - [ ] Writeup
-22. - [x] Solved
-    - [x] Writeup
+22. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/22.py)
+    - [ ] Writeup
 23. - [ ] Solved
     - [ ] Writeup
 24. - [ ] Solved
     - [ ] Writeup
-25. - [x] Solved
+25. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/25.py)
     - [ ] Writeup
 26. - [ ] Solved
     - [ ] Writeup
 27. - [ ] Solved
     - [ ] Writeup
-28. - [x] Solved
+28. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/28.py)
     - [ ] Writeup
-29. - [x] Solved
+29. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/29.py)
     - [ ] Writeup
 30. - [ ] Solved
     - [ ] Writeup
@@ -69,7 +69,7 @@ My solutions and writeups for Project Euler [https://projecteuler.net/].
     - [ ] Writeup
 34. - [ ] Solved
     - [ ] Writeup
-35. - [x] Solved
+35. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/35.py)
     - [ ] Writeup
 36. - [ ] Solved
     - [ ] Writeup

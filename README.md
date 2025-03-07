@@ -1,5 +1,6 @@
 # project-euler
 My solutions and writeups for Project Euler [https://projecteuler.net/].
+Note: The writeups are included as comments in the solutions.
 
 1. - [x] [Solved](https://github.com/sharka695/project-euler/blob/main/problems/1.py)
    - [x] Writeup
